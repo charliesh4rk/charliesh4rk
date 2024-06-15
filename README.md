@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chambles (@charliesh4rk)
+- 👋 Hi, I’m chibblee wibble
 - 👀 I’m interested in coding with Unity
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: charlierexford+people@gmail.com
