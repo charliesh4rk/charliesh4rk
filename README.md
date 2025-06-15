@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chibblee wibble
-- 👀 I’m interested in coding with Unity
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: charlierexford+people@gmail.com
+- 👀 I’m interested in coding with practically everything lol
+- 🌱 I’m currently learning C++ and GDScript (which i REALLY DO NOT LIKE because of whitespace)
+- 📫 How to reach me: charlierexfordalternative+people@gmail.com
 
 <!---
 charliesh4rk/charliesh4rk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
