@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chibblee wibble
 - 👀 I’m interested in suffering
-- 🌱 I’m currently learning C# and GDScript (which i REALLY DO NOT LIKE because of whitespace)
+- 🌱 I’m currently learning Python (reluctantly)
 - 📫 How to reach me: you Cant P:)
 
 <!---
