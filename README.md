@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chibblee wibble
 - 👀 I’m interested in suffering
-- 🌱 I’m currently learning Python (reluctantly)
+- 🌱 I’m currently learning Nothing. 🫀
 - 📫 How to reach me: you Cant P:)
 
 <!---
